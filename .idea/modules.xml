@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SST28-LLD101.iml" filepath="$PROJECT_DIR$/.idea/SST28-LLD101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutable-tickets/immutable-tickets.iml" filepath="$PROJECT_DIR$/immutable-tickets/immutable-tickets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton-metrics/singleton-metrics.iml" filepath="$PROJECT_DIR$/singleton-metrics/singleton-metrics.iml" />
+    </modules>
+  </component>
+</project>
